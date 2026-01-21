@@ -4,8 +4,10 @@
 - [x] laga build og svo setja upp á netlify
 - [x] uppsetning á netlify
 
-- [ ] parse test
-- [ ] test yfirhöfuð
+- [x] parse test
+- [x] test yfirhöfuð
+
+- [ ] github action
 
 - [ ] búa til index.html
 
