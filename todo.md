@@ -6,8 +6,7 @@
 
 - [x] parse test
 - [x] test yfirhöfuð
-
-- [ ] github action
+- [x] github action
 
 - [ ] búa til index.html
 
