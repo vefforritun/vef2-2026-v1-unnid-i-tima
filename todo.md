@@ -6,10 +6,8 @@
 - [x] parse test
 - [x] test yfirhöfuð
 - [x] github action
-
-- [ ] JS á client
-
-- [ ] búa til index.html
+- [x] JS á client
+- [x] búa til basic index.html
 
 - [ ] CSS virkni
 - [ ] HTML virkni
